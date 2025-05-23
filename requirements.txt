@@ -1,0 +1,15 @@
+requests
+emoatlas
+pandas
+networkx
+nltk
+matplotlib
+numpy
+tqdm
+pyplutchik
+scikit-learn
+seaborn
+wordfreq
+hf_xet
+transformers
+ipywidgets

@@ -80,6 +80,4 @@ If you use this work, please cite:
 For questions or collaborations, reach out to:
 📧 **[matteo.massari@gmail.com](mailto:matteo.massari@gmail.com)**
 
----
 
-Fammi sapere se vuoi che lo adatti a un formato `README.md` pronto da caricare o se desideri aggiungere sezioni come esempi di output o una demo online.

@@ -78,6 +78,6 @@ If you use this work, please cite:
 ## Contact
 
 For questions or collaborations, reach out to:
-📧 **[matteo.massari@gmail.com](mailto:matteo.massari@gmail.com)**
+📧 **[matteo.massari@gmail.com](mailto:matteo.massari62@gmail.com)**
 
 

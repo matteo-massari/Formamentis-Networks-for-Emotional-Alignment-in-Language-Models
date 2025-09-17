@@ -23,7 +23,7 @@ This project investigates the emotional coherence of Large Language Models (LLMs
 * **Narrative Prompting**: A fixed monologue scenario from a 25-year-old data scientist in London, presented in both positive and negative tones.
 * **Temperature Variation**: Texts are generated at temperatures 0.1, 0.7, and 1.3.
 * **FMN Construction**: Outputs are parsed into Forma Mentis Networks, enriched with Plutchik's emotional categories.
-* **Emotional Classification**: Texts are reclassified using absolute counts of positive/negative emotions, yielding confusion matrices for each setting.
+* **Emotional Classification**: Texts are reclassified using absolute counts of positive/negative emotions, yielding confusion matrices for each setting. The classification process in made with NLP techniques and one shoot BERT
 
 ## Key Findings
 
